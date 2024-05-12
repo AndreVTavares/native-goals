@@ -1,6 +1,16 @@
 # Native Goals
 
-App realizado na semana React Native na prática segunda live
+<img src="" alt="Exemplo imagem">
 
-Um app para acompanhar metas financeiras, nesse devido ao tempo da live as interfaces foram passadas finalizadas, focando apenas em 
-funcionalidades de cada componente, foi utilizado nativeWind que nada mais é que o tailwindCSS no react native. O database foi utilizando uma funcionalidade do expo chamada expoSQLite Next
+An app to list and show recipes depending on the chosen ingredients, Expo router was used to manage the application screens and [Supabase](https://supabase.com/) as a database to store
+ingredient and recipe information.
+
+## Running the project
+
+Use **yarn** or **npm install** to install project dependencies.
+Then start the project.
+
+```cl
+expo start
+```
+
